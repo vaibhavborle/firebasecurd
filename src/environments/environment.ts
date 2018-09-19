@@ -8,12 +8,12 @@ export const environment = {
     firebase: {
 
 
-    apiKey: "AIzaSyALM9vAABuugLKvs4BGlLycdhihJtI-uFY",
-    authDomain: "fire-base-curd-320a9.firebaseapp.com",
-    databaseURL: "https://fire-base-curd-320a9.firebaseio.com",
-    projectId: "fire-base-curd-320a9",
-    storageBucket: "fire-base-curd-320a9.appspot.com",
-    messagingSenderId: "641870192940"
+      apiKey: "your's",
+      authDomain: "your's",
+      databaseURL: "your's",
+      projectId: "your's",
+      storageBucket: "your's",
+      messagingSenderId: "your's"
   
     }
 };
